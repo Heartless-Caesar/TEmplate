@@ -1,0 +1,29 @@
+{
+  "name": "sfv7w3",
+  "version": "0.0.85",
+  "description": "hello world starter",
+  "keywords": [
+    "react",
+    "material"
+  ],
+  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "main": "index.js",
+  "dependencies": {
+    "@emotion/react": "11.9.3",
+    "@emotion/styled": "11.9.3",
+    "@material-ui/core": "latest",
+    "@mui/icons-material": "5.8.4",
+    "@mui/material": "5.9.1",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
